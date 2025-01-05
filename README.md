@@ -98,4 +98,3 @@ This project is based on concepts taught in the **Deep Learning Specialization**
 
 ## Contact 📬
 For more details or if you have any questions, feel free to reach out to me at: https://www.upwork.com/freelancers/~01c49d81acd187f26f?s=1031626803146899456.
-```
