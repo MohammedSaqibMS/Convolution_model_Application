@@ -1,8 +1,3 @@
-
-
-Here's a professional and organized `README.md` for your GitHub repository, including the credit to DeepLearning.AI and emojis:
-
-```markdown
 # Convolutional Neural Networks: Application 🧠
 
 ## Overview 📚
