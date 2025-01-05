@@ -97,7 +97,5 @@ This project is based on concepts taught in the **Deep Learning Specialization**
 - The community for continuous contributions to open-source machine learning development.
 
 ## Contact 📬
-For more details or if you have any questions, feel free to reach out to me at [your email].
+For more details or if you have any questions, feel free to reach out to me at: https://www.upwork.com/freelancers/~01c49d81acd187f26f?s=1031626803146899456.
 ```
-
-This format provides a clear, structured approach to explaining your project while keeping it professional and engaging with the use of emojis. It also appropriately credits the source of the material.
